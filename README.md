@@ -13,5 +13,5 @@ git clone https://github.com/xc4n/terstyle
 
 cd terstyle
 
-python2 terstyle.py
+python2 run.py
 
