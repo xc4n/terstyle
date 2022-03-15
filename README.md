@@ -1,3 +1,6 @@
+# Terstyle
+Changed the appearance of termux to make it cooler 
+
 # How to install
 pkg update && pkg upgrade
 
